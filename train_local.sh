@@ -1,0 +1,1 @@
+bash gomoku/run_dist.sh 0
