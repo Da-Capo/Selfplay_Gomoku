@@ -7,7 +7,7 @@ I have trained an model that got 90% winrate vs rule AI (from an open source rep
 
 Training info: RTX2070 / I7-9700 / 2~3day / 2G-frame-sample
 
-[Download Checkpoint]()
+[Download Checkpoint](https://drive.google.com/file/d/1aWlKk_OOfVyRo-B8yTCr6Lh3zhqNr1Mu/view?usp=sharing)
 
 
 # HOW TO USE
